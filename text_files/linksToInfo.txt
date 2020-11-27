@@ -1,0 +1,3 @@
+Meduim, get historical data (Bitmex and Binance): https://medium.com/swlh/retrieving-full-historical-data-for-every-cryptocurrency-on-binance-bitmex-using-the-python-apis-27b47fd8137f
+
+Investopedia, different types of moving averages: https://www.investopedia.com/terms/m/movingaverage.asp
