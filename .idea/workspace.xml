@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fbc4e5e-d217-46f9-98b0-ef200b2c15a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BotONE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTCUSDT_1min_ohlc_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binance_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bitmex_API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/credentials.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/historical_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indicators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot_binance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plotting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swagger.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_files/linksToInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useful_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

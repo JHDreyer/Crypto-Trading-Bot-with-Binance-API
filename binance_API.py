@@ -63,8 +63,8 @@ AGG_TIME           = 'T'
 AGG_BUYER_MAKES    = 'm'
 AGG_BEST_MATCH     = 'M'
 
-api_key = 'XpvnycNc3WWvBX4L6bFkkVhsDif7zkc4Kz8w49RZB28HZlu5MfEwm9PZt0zwNvGd'
-api_secret = 'pna4mweY7u8BiHzJMnSg7wDAMcx0dCEgFWNCiToJascphRhamICc7y5dCI1JxjGY'
+api_key = ''
+api_secret = ''
 
 client = Client(api_key, api_secret)
 
