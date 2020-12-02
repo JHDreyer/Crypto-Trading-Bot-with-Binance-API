@@ -7,4 +7,4 @@
 4. Use logic to determine whether the current position (on Binance) corresponds to the TIF logic outcome.
 5. Make a trade or hold a position based on the condition in 4.
 
-..* A backtesting function also exists to compare the profit made by the TIF's on older data. It is for experimentation and testing purposes.
+*A backtesting function also exists to compare the profit made by the TIF's on older data. It is for experimentation and testing purposes.
