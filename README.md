@@ -1,4 +1,4 @@
-# Cryprocurrency trading algorith with the Binance API
+# Cryprocurrency trading algorithm with the Binance API
 
 ### Components of this program:
 ---
